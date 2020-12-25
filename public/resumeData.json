@@ -1,40 +1,35 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
+    "name": "Shekhar Dewan",
+    "occupation": "Data Scientist and ML Engineer",
+    "description": "Data Scientist, ML Engineer, interested in full stack deployment",
     "image": "Naz.jpg",
     "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "shekhar.dewan@gmail.com",
+    "phone": "At Request",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "21-839 Churchill Row",
+      "city": "Fredericton",
+      "state": "NB",
+      "zip": "E3B 1R1"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/shekhar-dewan/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/deeplearningdemystified/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/shekhardewan",
         "className": "fa fa-github"
       }
     ]
@@ -43,10 +38,16 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Mount Allison University",
+        "degree": "BA Joint Honors, Computer Science and Math",
+        "graduated": "January 2020",
+        "description": "Thesis in machine learining (to be published). GPA 4.0/4.3"
+      },
+      {
+        "school": "Mount Allison University",
+        "degree": "BSc. Cognitive Science with Philosophy Minor",
+        "graduated": "May 2020",
+        "description": "Gave me a broad science background, including philosophy of science. Major GPA : 4.1/4.3 "
       }
     ],
     "work": [
@@ -65,24 +66,24 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Python",
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "95%"
+        "name": "Java",
+        "level": "80%"
       },
       {
         "name": "Git",
         "level": "75%"
       },
       {
-        "name": "JavaScript",
-        "level": "100%"
+        "name": "SQL",
+        "level": "10%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "20%"
       }
     ]
   },
