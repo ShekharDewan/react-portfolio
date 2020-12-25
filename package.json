@@ -32,7 +32,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://shekhardewan.github.io/react-portfolio"
+    "url": "git+https://github.com/ShekharDewan/react-portfolio.git"
   },
   "author": "",
   "license": "ISC",
